@@ -21,3 +21,5 @@ function setRandomColors() {
 }
 
 setRandomColors()
+
+//background: rgb(47, 38, 38)
